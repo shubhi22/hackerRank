@@ -5,8 +5,9 @@
 This repository maintains my solutions to the problems on HackerRank website (https://www.hackerrank.com/).
 The solutions are not optimized in terms of space and time complexity . Also it is highly recommended to avoid copying the code and instead trying out the problems on your own.
 
-##
-Compiling and Executing the code
+
+
+##Compiling and Executing the code
 
 ***
 
