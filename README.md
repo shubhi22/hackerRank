@@ -1,2 +1,4 @@
-# hackerRank
-This repository contains my solutions to hackerrank problems
+#Solutions to the [HackerRank](https://www.hackerrank.com/) Problems
+
+
+
